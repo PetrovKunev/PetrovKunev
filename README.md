@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PetrovKunev
+- 👋 Hi, I’m @PetrovKunev and I’m a teacher
 - 👀 I’m interested in C#; Python; JavaScript 
 - 🌱 I’m currently learning C#
+- 
 - 💞️ I’m looking to collaborate on C# projects 
 - 📫 How to reach me: petrovkunev@gmail.com
 
